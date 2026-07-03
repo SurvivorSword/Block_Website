@@ -1,7 +1,7 @@
 # How to Block Website
 ---
 Open with notepad as admin 
-```
+```cmd
 C:\Windows\System32\drivers\etc\hosts
 ```
 Add
